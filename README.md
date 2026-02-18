@@ -91,7 +91,7 @@ Example annotated reasoning chains can be found in:
 
 Using manually annotated reasoning chains, we built a **Custom GPT Auto Evaluator**.
 
-# Important Clarification
+### Important Clarification
 
 > The manually annotated reasoning chains used to guide the Custom GPT were **different from the evaluation set used to compute accuracy**, ensuring no data leakage.
 
